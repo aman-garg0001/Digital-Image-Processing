@@ -9,3 +9,6 @@ Implementation of graham's scan algorithm for finding convex hull of finite set 
 
 ## OSTU's Thresholding 
 Implementation of OSTU's thresholding algorithm to find a threshold value for thresholding an image.
+
+## DIP Implementations
+Contains implementation of Contrast Stretching, Histogram Equalization, Low pass and High pass filters, Bit Plane Slicing, Laplacian, Sobel, Prewitt Filters.
